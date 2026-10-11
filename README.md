@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<a href ="https://github.com/erenkan/whoamifetch"> 
+    <img src="whoami.svg" alt="Retro terminal card: ASCII portrait with a whoami-style profile summary" width="100%">
+</a>
 <!--
 **emreozhan/emreozhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
